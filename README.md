@@ -1,5 +1,5 @@
 ## Problem Statement
-Can we build a machine learning model that can distinguish between a 'shower thought' and a 'crazy idea' (based on classification in one of two subredddits, r/Showerthoughts & r/CrazyIdeas)?
+Can we build a machine learning model that can distinguish between a 'shower thought' and a 'crazy idea' (based on classification asa post from one of two subredddits, r/Showerthoughts & r/CrazyIdeas)?
 
 
 ## Data Dictionary (for cleaned data)
